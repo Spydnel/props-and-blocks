@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "connected=false": {
+      "model": "props_and_blocks:block/large_candle"
+    },
+    "connected=true": {
+      "model": "props_and_blocks:block/large_candle_connected"
+    }
+  }
+}
