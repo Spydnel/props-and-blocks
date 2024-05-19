@@ -1,0 +1,8 @@
+{
+  "parent": "props_and_blocks:block/template_candle_single",
+  "textures": {
+    "0": "props_and_blocks:block/large_light_gray_candle",
+    "1": "props_and_blocks:block/light_gray_candle_puddle",
+    "particle": "props_and_blocks:block/large_light_gray_candle"
+  }
+}

@@ -1,7 +1,8 @@
 package net.spydnel.props_and_blocks.registry;
 
-public class ModItems {
+import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 
+public class ModItems {
     public static void registerModItems() {
 
     }

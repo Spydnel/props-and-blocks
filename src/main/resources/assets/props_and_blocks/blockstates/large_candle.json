@@ -1,10 +1,22 @@
 {
   "variants": {
-    "connected=false": {
-      "model": "props_and_blocks:block/large_candle"
+    "connected=false,has_puddle=true,lit=true": {
+      "model": "props_and_blocks:block/candle_single_lit"
     },
-    "connected=true": {
-      "model": "props_and_blocks:block/large_candle_connected"
+    "connected=false,has_puddle=false,lit=true": {
+      "model": "props_and_blocks:block/candle_top_lit"
+    },
+    "connected=false,has_puddle=true,lit=false": {
+      "model": "props_and_blocks:block/candle_single"
+    },
+    "connected=false,has_puddle=false,lit=false": {
+      "model": "props_and_blocks:block/candle_top"
+    },
+    "connected=true,has_puddle=true": {
+      "model": "props_and_blocks:block/candle_base"
+    },
+    "connected=true,has_puddle=false": {
+      "model": "props_and_blocks:block/candle_connected"
     }
   }
 }

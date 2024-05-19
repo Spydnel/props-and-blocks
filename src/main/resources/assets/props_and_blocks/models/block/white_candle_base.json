@@ -1,0 +1,8 @@
+{
+  "parent": "props_and_blocks:block/template_candle_base",
+  "textures": {
+    "0": "props_and_blocks:block/large_white_candle",
+    "1": "props_and_blocks:block/white_candle_puddle",
+    "particle": "props_and_blocks:block/large_white_candle"
+  }
+}

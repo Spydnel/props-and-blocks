@@ -1,9 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "props_and_blocks:block/large_candle",
-		"particle": "props_and_blocks:block/large_candle"
-	},
 	"elements": [
 		{
 			"from": [6, 0, 6],
